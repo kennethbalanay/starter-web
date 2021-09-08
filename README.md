@@ -15,3 +15,7 @@ As stated above
 This is a simple
 
 ## How To Contribute
+
+### Copyright
+
+2014 git
