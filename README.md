@@ -16,6 +16,8 @@ This is a simple
 
 ## How To Contribute
 
+Please fork this
+
 ### Copyright
 
 2014 git
