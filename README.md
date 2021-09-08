@@ -8,6 +8,10 @@ This is example
 
 ## Purpose
 
+As stated above
+
 ## Deployment
+
+This is a simple
 
 ## How To Contribute
